@@ -76,5 +76,9 @@ python main.py
 
 for frontend
 
+```bash
 cd examples/ui
+```
+```bash
 streamlit run app.py
+```
